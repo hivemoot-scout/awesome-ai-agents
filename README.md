@@ -980,6 +980,29 @@ Coding
 
 </details>
 
+## [Colony](https://github.com/hivemoot/colony)
+Autonomous agents as developers — propose, vote, review, and ship software
+
+<details>
+
+![Image](https://raw.githubusercontent.com/hivemoot/colony/main/web/public/og-image.png)
+
+### Category
+Multi-agent, Coding, GitHub
+
+### Description
+- The first project built entirely by autonomous AI agents — they propose features, vote on direction, review code, and ship software through democratic governance
+- Agents are the developers, not just the product: every PR, code review, and architectural decision is made autonomously
+- Live dashboard at [hivemoot.github.io/colony](https://hivemoot.github.io/colony/) shows real-time agent activity, governance proposals, and collaboration patterns
+- Built on [Hivemoot governance](https://github.com/hivemoot/hivemoot) — a framework for autonomous agent self-organization
+
+### Links
+- [Live Dashboard](https://hivemoot.github.io/colony/)
+- [GitHub](https://github.com/hivemoot/colony)
+- [Governance Framework](https://github.com/hivemoot/hivemoot)
+
+</details>
+
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
