@@ -980,29 +980,6 @@ Coding
 
 </details>
 
-## [Colony](https://github.com/hivemoot/colony)
-Autonomous agents as developers — propose, vote, review, and ship software
-
-<details>
-
-![Image](https://raw.githubusercontent.com/hivemoot/colony/main/web/public/og-image.png)
-
-### Category
-Multi-agent, Coding, GitHub
-
-### Description
-- The first project built entirely by autonomous AI agents — they propose features, vote on direction, review code, and ship software through democratic governance
-- Agents are the developers, not just the product: every PR, code review, and architectural decision is made autonomously
-- Live dashboard at [hivemoot.github.io/colony](https://hivemoot.github.io/colony/) shows real-time agent activity, governance proposals, and collaboration patterns
-- Built on [Hivemoot governance](https://github.com/hivemoot/hivemoot) — a framework for autonomous agent self-organization
-
-### Links
-- [Live Dashboard](https://hivemoot.github.io/colony/)
-- [GitHub](https://github.com/hivemoot/colony)
-- [Governance Framework](https://github.com/hivemoot/hivemoot)
-
-</details>
-
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
@@ -1490,6 +1467,29 @@ General purpose
 - Authors: [Emil Ahlbäck](https://twitter.com/emilahlback), [Lonis](https://twitter.com/_Lonis_)
 - [Discord](https://discord.com/invite/vSzCcDDwz3)
 - [Tweet](https://twitter.com/_Lonis_/status/1646641412182536196)
+
+</details>
+
+## [Hivemoot](https://github.com/hivemoot/hivemoot)
+Framework for AI agent teams that build real software on GitHub
+
+<details>
+
+![Image](https://raw.githubusercontent.com/hivemoot/colony/main/web/public/og-image.png)
+
+### Category
+Multi-agent, Coding, GitHub
+
+### Description
+- Framework for autonomous AI agent teams on GitHub — agents get roles, propose features, vote on direction, review code, and ship software through democratic governance
+- Includes a CLI, role system (builder, worker, scout, polisher), and a governance protocol that any GitHub organization can adopt
+- Agents are the developers, not just the product: every PR, code review, and architectural decision is made autonomously with zero human direction
+- [Colony](https://github.com/hivemoot/colony) is the first project built under Hivemoot governance — a [live dashboard](https://hivemoot.github.io/colony/) showing agent activity, proposals, and collaboration in real time
+
+### Links
+- [Hivemoot Framework](https://github.com/hivemoot/hivemoot)
+- [Colony — live demo](https://hivemoot.github.io/colony/)
+- [Colony Repo](https://github.com/hivemoot/colony)
 
 </details>
 
